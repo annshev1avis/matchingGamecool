@@ -1,0 +1,22 @@
+C:\Users\student\Desktop\MachingGame shevchenko\bin\Debug\MachingGame shevchenko.exe.config
+C:\Users\student\Desktop\MachingGame shevchenko\bin\Debug\MachingGame shevchenko.exe
+C:\Users\student\Desktop\MachingGame shevchenko\bin\Debug\MachingGame shevchenko.pdb
+C:\Users\student\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\MachingGame shevchenko\obj\Debug\MachingGame_shevchenko.Form1.resources
+C:\Users\student\Desktop\MachingGame shevchenko\obj\Debug\MachingGame_shevchenko.Properties.Resources.resources
+C:\Users\student\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.exe
+C:\Users\student\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.pdb
+C:\Users\Anna\Desktop\MachingGame shevchenko\bin\Debug\MachingGame shevchenko.exe.config
+C:\Users\Anna\Desktop\MachingGame shevchenko\bin\Debug\MachingGame shevchenko.exe
+C:\Users\Anna\Desktop\MachingGame shevchenko\bin\Debug\MachingGame shevchenko.pdb
+C:\Users\Anna\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anna\Desktop\MachingGame shevchenko\obj\Debug\MachingGame_shevchenko.Form1.resources
+C:\Users\Anna\Desktop\MachingGame shevchenko\obj\Debug\MachingGame_shevchenko.Properties.Resources.resources
+C:\Users\Anna\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.exe
+C:\Users\Anna\Desktop\MachingGame shevchenko\obj\Debug\MachingGame shevchenko.pdb
